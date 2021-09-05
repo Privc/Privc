@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Privc
-- 👀 I’m interested in Technical writing
-- 🌱 I’m currently learning API and Software documentation, 
+- 👀 I’m interested in API and Software documentation
 
 <!---
 Privc/Privc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
